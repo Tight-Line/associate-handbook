@@ -21,6 +21,8 @@ This handbook covers various aspects of work at Tight Line:
 * [Security](#security)
   * [Physical space](#physical-space)
   * [Computers](#computers)
+    * [Tight Line-provided devices](#tight-line-provided-devices)
+    * [BYOD devices](#byod-devices)
   * [Passwords](#passwords)
   * [Network security](#network-security)
   * [Other devices](#other-devices)
@@ -168,7 +170,19 @@ If you work in an office, any space where you will leave behind computer or netw
 
 ### Computers
 
-If you are working for Tight Line on your own computing equipment, it must run one of the following operating systems:
+#### Tight Line-Provided Devices
+
+For many associates, Tight Line will provide a laptop or desktop computer appropriate for their working needs.
+
+Such devices may be configured with [Mobile Device Management](https://en.wikipedia.org/wiki/Mobile_device_management) software that assists in achieving compliance with the policies in this handbook.
+
+**In all cases it is the associate's responsibility to comply with the policies listed in this handbook.** If you have any questions about whether your device and its policies are compliant, reach out to a member of the Tight Line management team and we will help you.
+
+#### BYOD Devices
+
+The section pertains to associates who want to use their own devices. This situation is often referred to as "Bring Your Own Device" or "BYOD".
+
+To ensure up-to-date security patch availability, BYOD devices must run one of the following operating systems:
 
 * Windows 11 or later
 * OS X 12.1 or later
