@@ -185,9 +185,9 @@ The section pertains to associates who want to use their own devices. This situa
 To ensure up-to-date security patch availability, BYOD devices must run one of the following operating systems:
 
 * Windows 11 or later
-* OS X 12.1 or later
-* Ubuntu LTS 20.x or later
-* Fedora Core 35 or later
+* Apple macOS 15 (Sequoia) or later
+* Ubuntu LTS 24.x or later
+* Fedora Core 42 or later
 
 You must configure your computer to apply critical patches from your operating system vendor within 30 days of their release.
 
